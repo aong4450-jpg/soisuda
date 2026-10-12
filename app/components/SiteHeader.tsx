@@ -7,6 +7,7 @@ const MENU = [
   { href: "/orders", label: "รายการคำสั่งซื้อ" },
   { href: "/orders/new", label: "เพิ่มคำสั่งซื้อ" },
   { href: "/summary", label: "สรุปยอด" },
+  { href: "/quotes/new", label: "ใบเสนอราคา" },
 ];
 
 export default function SiteHeader() {

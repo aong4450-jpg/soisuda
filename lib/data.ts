@@ -31,6 +31,11 @@ export const BOOKS = [
   { title: "ถอดรหัสการเงินมือใหม่", price: 350 },
   { title: "นิทานเมืองหมอก", price: 150 },
   { title: "ภาษาไทยใช้ให้เป็น", price: 220 },
+  { title: "วิชาคณิตศาสตร์", price: 129 },
+  { title: "วิชาวิทยาศาสตร์", price: 119 },
+  { title: "วิชาช่องทางการเข้าสู่อาชีพ", price: 78 },
+  { title: "วิชาทักษะการประกอบอาชีพ", price: 88 },
+  { title: "วิชาพัฒนาอาชีพให้มีอยู่มีกิน", price: 64 },
 ];
 
 export const SEED_ORDERS: Order[] = [
